@@ -26,5 +26,6 @@ joke = input("BTW wanna hear a joke?")
 
 if joke == "Yes":
     print("Your Life")
+    
 else:
     print ("Baaakaaaaa")
